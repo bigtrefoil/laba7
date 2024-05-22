@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-
     /// <summary>
     /// класс дисциплина
     /// вариант 3
