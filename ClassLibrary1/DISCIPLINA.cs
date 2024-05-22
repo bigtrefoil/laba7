@@ -30,5 +30,4 @@ namespace ClassLibrary1
             return sokrasch;
         }
     }
-
 }
